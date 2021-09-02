@@ -11,3 +11,7 @@
 - 🔭 I’m currently working on **multiple Discord bots**
 - 🌱 I’m currently learning **Python, and Node.js**
 - 🖥️ Visit my Website https://withercubes.xyz
+
+
+### Recent GitHub Acitvity
+<!--START_SECTION:activity-->
