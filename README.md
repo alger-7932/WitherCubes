@@ -17,12 +17,12 @@
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to WitherCubes/dots
 2. 🔥 Pushed to WitherCubes/arch-magic
-3. 🔥 Pushed to WitherCubes/withercubes.xyz
-4. 🔥 Pushed to WitherCubes/dwm-new
-5. 🔥 Pushed to WitherCubes/dwm-new
-6. 🔥 Pushed to WitherCubes/withercubes.xyz
-7. 🔥 Pushed to WitherCubes/WitherCubes
-8. 🔥 Pushed to WitherCubes/WitherCubes
+3. 🔥 Pushed to WitherCubes/dots
+4. 🔥 Pushed to WitherCubes/arch-magic
+5. 🔥 Pushed to WitherCubes/withercubes.xyz
+6. 🔥 Pushed to WitherCubes/dwm-new
+7. 🔥 Pushed to WitherCubes/dwm-new
+8. 🔥 Pushed to WitherCubes/withercubes.xyz
 9. 🔥 Pushed to WitherCubes/WitherCubes
-10. 🔥 Pushed to WitherCubes/withercubes.xyz
+10. 🔥 Pushed to WitherCubes/WitherCubes
 <!--END_SECTION:activity-->
