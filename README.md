@@ -15,14 +15,14 @@
 
 ### Recent GitHub Acitvity
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to WitherCubes/arch-magic
-2. 🔥 Pushed to WitherCubes/dots
-3. 🔥 Pushed to WitherCubes/arch-magic
-4. 🔥 Pushed to WitherCubes/dots
-5. 🔥 Pushed to WitherCubes/notes
+1. 🔥 Pushed to WitherCubes/withercubes.xyz
+2. 🔥 Pushed to WitherCubes/arch-magic
+3. 🔥 Pushed to WitherCubes/dots
+4. 🔥 Pushed to WitherCubes/arch-magic
+5. 🔥 Pushed to WitherCubes/dots
 6. 🔥 Pushed to WitherCubes/notes
 7. 🔥 Pushed to WitherCubes/notes
-8. 🔥 Pushed to WitherCubes/whitehatjr
-9. 🔥 Pushed to WitherCubes/dots
+8. 🔥 Pushed to WitherCubes/notes
+9. 🔥 Pushed to WitherCubes/whitehatjr
 10. 🔥 Pushed to WitherCubes/dots
 <!--END_SECTION:activity-->
