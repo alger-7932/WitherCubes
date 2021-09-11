@@ -8,18 +8,17 @@
 
 ### Recent GitHub Acitvity
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to WitherCubes/dots
-2. 🔥 Pushed to WitherCubes/WitherCubes
-3. ❗️ Opened issue [#3](https://github.com/nagy135/subtube/issues/3) in [nagy135/subtube](https://github.com/nagy135/subtube)
-4. 🔥 Pushed to WitherCubes/withercubes.xyz
-5. 🔥 Pushed to WitherCubes/arch-magic
-6. 🔥 Pushed to WitherCubes/dots
-7. 🔥 Pushed to WitherCubes/arch-magic
-8. 🔥 Pushed to WitherCubes/dots
-9. 🔥 Pushed to WitherCubes/notes
+1. 🔥 Pushed to WitherCubes/WitherCubes
+2. 🔥 Pushed to WitherCubes/dots
+3. 🔥 Pushed to WitherCubes/WitherCubes
+4. ❗️ Opened issue [#3](https://github.com/nagy135/subtube/issues/3) in [nagy135/subtube](https://github.com/nagy135/subtube)
+5. 🔥 Pushed to WitherCubes/withercubes.xyz
+6. 🔥 Pushed to WitherCubes/arch-magic
+7. 🔥 Pushed to WitherCubes/dots
+8. 🔥 Pushed to WitherCubes/arch-magic
+9. 🔥 Pushed to WitherCubes/dots
 10. 🔥 Pushed to WitherCubes/notes
 <!--END_SECTION:activity-->
-<a href="https://github.com/WitherCubes">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&theme=tokyonight" align="right" />
 </a>
 
