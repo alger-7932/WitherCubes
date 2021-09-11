@@ -20,7 +20,7 @@
 10. 🔥 Pushed to WitherCubes/notes
 <!--END_SECTION:activity-->
 <a href="https://github.com/WitherCubes">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&theme=github_dark" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&theme=tokyonight" align="right" />
 </a>
 
 ### 15, Basic Newbie Programmmer
