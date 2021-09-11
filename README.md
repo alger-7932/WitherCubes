@@ -15,14 +15,14 @@
 
 ### Recent GitHub Acitvity
 <!--START_SECTION:activity-->
-1. 🔥 Pushed to WitherCubes/withercubes.xyz
-2. 🔥 Pushed to WitherCubes/arch-magic
-3. 🔥 Pushed to WitherCubes/dots
-4. 🔥 Pushed to WitherCubes/arch-magic
-5. 🔥 Pushed to WitherCubes/dots
-6. 🔥 Pushed to WitherCubes/notes
+1. ❗️ Opened issue [#3](https://github.com/nagy135/subtube/issues/3) in [nagy135/subtube](https://github.com/nagy135/subtube)
+2. 🔥 Pushed to WitherCubes/withercubes.xyz
+3. 🔥 Pushed to WitherCubes/arch-magic
+4. 🔥 Pushed to WitherCubes/dots
+5. 🔥 Pushed to WitherCubes/arch-magic
+6. 🔥 Pushed to WitherCubes/dots
 7. 🔥 Pushed to WitherCubes/notes
 8. 🔥 Pushed to WitherCubes/notes
-9. 🔥 Pushed to WitherCubes/whitehatjr
-10. 🔥 Pushed to WitherCubes/dots
+9. 🔥 Pushed to WitherCubes/notes
+10. 🔥 Pushed to WitherCubes/whitehatjr
 <!--END_SECTION:activity-->
