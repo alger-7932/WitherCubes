@@ -12,15 +12,15 @@
 - 🌱 Currently learning: **Python, C++, and Node.js**
 - 📫 How to reach me: [**Mastodon**](https://withercubes.xyz/mastodon), [**Matrix**](https://withercubes.xyz/matrix), [**Discord**](https://withercubes.xyz/discord)
 - 🖥️ Visit my Website: **https://withercubes.xyz**
-- 
+
 <br>
 
 <a href="https://github.com/WitherCubes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WitherCubes&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WitherCubes&theme=tokyonight" />
 </a>
 
 <br>
 
 <a href="https://github.com/WitherCubes">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&theme=tokyonight" />
 </a>
