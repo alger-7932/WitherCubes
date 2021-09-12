@@ -9,17 +9,16 @@
 ### Recent GitHub Acitvity
 <!--START_SECTION:activity-->
 1. 🔥 Pushed to WitherCubes/arch-magic
-2. 🔥 Pushed to WitherCubes/withercubes.xyz
-3. 🔥 Pushed to WitherCubes/WitherCubes
-4. 🔥 Pushed to WitherCubes/dots
+2. 🔥 Pushed to WitherCubes/dots
+3. 🔥 Pushed to WitherCubes/arch-magic
+4. 🔥 Pushed to WitherCubes/withercubes.xyz
 5. 🔥 Pushed to WitherCubes/WitherCubes
-6. ❗️ Opened issue [#3](https://github.com/nagy135/subtube/issues/3) in [nagy135/subtube](https://github.com/nagy135/subtube)
-7. 🔥 Pushed to WitherCubes/withercubes.xyz
-8. 🔥 Pushed to WitherCubes/arch-magic
-9. 🔥 Pushed to WitherCubes/dots
+6. 🔥 Pushed to WitherCubes/dots
+7. 🔥 Pushed to WitherCubes/WitherCubes
+8. ❗️ Opened issue [#3](https://github.com/nagy135/subtube/issues/3) in [nagy135/subtube](https://github.com/nagy135/subtube)
+9. 🔥 Pushed to WitherCubes/withercubes.xyz
 10. 🔥 Pushed to WitherCubes/arch-magic
 <!--END_SECTION:activity-->
-</a>
 
 ### 15, Basic Newbie Programmmer
 
