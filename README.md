@@ -16,11 +16,5 @@
 <br>
 
 <a href="https://github.com/WitherCubes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WitherCubes&theme=tokyonight" />
-</a>
-
-<br>
-
-<a href="https://github.com/WitherCubes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&theme=tokyonight" />
 </a>
