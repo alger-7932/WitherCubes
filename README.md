@@ -3,9 +3,10 @@
 </h1>
 
 <a href="https://github.com/WitherCubes">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=WitherCubes&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WitherCubes&show_icons=true&theme=github_dark" />
 </a>
-
+<br>
+<br>
 <a href="https://github.com/WitherCubes">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&theme=github_dark" />
 </a>
