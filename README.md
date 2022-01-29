@@ -10,7 +10,7 @@ Hey there <img src="./assets/wave.gif" width="28px">
 
 ```
 
-<img align="right" width="100" src="./assets/laptop_parrot.gif">
+<img align="right" width="100" src="./assets/cat.gif">
 
 - 🔭 I’m currently doing nothing.
 - 🖥️ Visit my [website](https://withercubes.xyz).
