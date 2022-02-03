@@ -18,8 +18,8 @@ Hey there <img src="./assets/wave.gif" width="28px">
 
 ### 📫 How to reach me:
 
-- <img src="./assets/discord-logo.svg" height="14px"> DM me on [discord](https://discord.com/users/745631160809422959) - `WitherCubes#2513`
-- <img src="./assets/gmail-logo.svg" height="14px"> Send me an [email](mailto://tsppavan7@gmail.com)
+- 💬 DM me on [discord](https://discord.com/users/745631160809422959) - `WitherCubes#2513`
+- 📪 Send me an [email](mailto://withercubes@protonmail.com)
 
 <br />
 
