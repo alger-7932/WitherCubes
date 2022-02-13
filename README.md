@@ -20,8 +20,6 @@ Hey there <img src="./assets/wave.gif" width="28px">
 - 💬 DM me on [discord](https://discord.com/users/745631160809422959) - `WitherCubes#2513`
 - 📪 Send me an [email](mailto://withercubes@protonmail.com)
 
-<br />
-
 <h2>
 <img src="./assets/github-mark-light.png" width="18px">
 My Github Stats
