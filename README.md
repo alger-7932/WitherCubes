@@ -25,10 +25,10 @@ Hey there <img src="./assets/wave.gif" width="28px">
 My Github Stats
 </h2>
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=WitherCubes&show_icons=true&theme=github_dark)
+![github-stats](https://github-readme-stats.vercel.app/api?username=WitherCubes&show_icons=true&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 <br>
 <br>
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&theme=github_dark)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WitherCubes&exclude_repo=whitehatjr,notes,trex-runner&layout=compact&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB)
 
 [github]: https://github.com/WitherCubes
 [gitlab]: https://gitlab.com/WitherCubes
